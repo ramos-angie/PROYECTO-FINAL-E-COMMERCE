@@ -35,11 +35,6 @@ Thumbs.db
 coverage/
 .nyc_output/
 
-# Base de datos local (si alguien genera dumps)
-db/*.sqlite
-*.db
-*.sql
-
 # Docker (si llegan a usarlo)
 docker-data/
 
