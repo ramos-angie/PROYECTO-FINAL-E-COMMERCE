@@ -1,0 +1,1 @@
+npm run tables = node createDatabaseTables.js
